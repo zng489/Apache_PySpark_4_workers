@@ -1,0 +1,11 @@
+
+docker build -t pyspark .
+
+docker run -p 1000:8888 -v "c:/Users/PC/Desktop/Apache_PySpark/PySpark:/home/jovyan/workspace" pyspark
+
+Nvo Cageed
+consumo de dados
+comex
+
+
+alan lincesa

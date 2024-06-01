@@ -1,0 +1,7 @@
+C:/Users/PC/Desktop/Apache_PySpark_4_workers/Apache_PySpark/notebook
+
+Open the git bash and write "sh build.sh"
+
+docker-compose up
+
+find local host and acess to use it
